@@ -5,7 +5,7 @@ This document contains useful Git commands and examples that I am learning durin
 
 
 *1. Command:* `git --version`
-### Descriptoin: 
+### Description: 
 It Check the installed Git version of git.
 ***Example:***
 `git  --version`
@@ -14,7 +14,7 @@ git version 2.56.0.windows.1
 
 *2. Command:* `git config --global user.name "User's Name"`
 and   `git config --global user.email "User's Email"` 
-### Descriptoin:
+### Description:
 They sets user name and email in Git respectively so that Git can identify who made a commit.
 ***Example:***
 `git config --global user.name "Srishti Sonam"`
